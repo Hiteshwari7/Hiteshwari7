@@ -1,6 +1,6 @@
 # Hi, I'm Hiteshwari 👋
 
-3rd-year Integrated M.Sc. Mathematics student at SVNIT Surat, ranked top 5 in my programme.
+3rd-year Mathematics student at SVNIT Surat.
 
 ---
 
