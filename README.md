@@ -5,13 +5,13 @@
 ---
 
 ### What I work on
-`machine learning` `computational neuroscience` `NLP` `attention mechanisms` `bias in word embeddings` `applied mathematics`
+`machine learning` `Deep Learning` `NLP` `attention mechanisms` `bias in word embeddings` `applied mathematics`
 
 ---
 
 ### Research
 - **IIT Jodhpur** — Excitatory-Inhibitory RNNs for computational neuroscience
-- **NIT Surathkal** — ML pipeline for photonic waveguide optimisation *(paper under review)*
+- **NIT Surathkal** — ML pipeline for photonic waveguide optimisation *(paper accepted by IEEE)*
 - **SVNIT** — Approximation theory for MLPs
 
 ---
