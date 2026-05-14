@@ -17,7 +17,7 @@
 ---
 
 ### Beyond code
-Hindustani classical vocalist · poetry ·  badminton ·  teaching with Nirvana NGO
+Hindustani classical vocals  · poetry ·  badminton ·  teaching with Nirvana NGO
 
 ---
 
