@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Hiteshwari 👋
 
-<!--
-**Hiteshwari7/Hiteshwari7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Integrated M.Sc. Mathematics student at SVNIT Surat, ranked top 5 in my programme.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+`machine learning` `computational neuroscience` `NLP` `attention mechanisms` `bias in word embeddings` `applied mathematics`
+
+---
+
+### Research
+- **IIT Jodhpur** — Excitatory-Inhibitory RNNs for computational neuroscience
+- **NIT Surathkal** — ML pipeline for photonic waveguide optimisation *(paper under review)*
+- **SVNIT** — Approximation theory for MLPs
+
+---
+
+### Beyond code
+Sangeet Visharad in Hindustani classical vocals · poetry · badminton · teaching with Nirvana NGO
+
+---
+
+📬 hiteshwaripatel408@gmail.com  
+🔗 [LinkedIn](YOUR_LINKEDIN_URL)
