@@ -1,4 +1,4 @@
-# Hi, I'm Hiteshwari 👋
+# Hi, I'm Hiteshwari 
 
 3rd-year Mathematics student at SVNIT Surat.
 
@@ -17,9 +17,9 @@
 ---
 
 ### Beyond code
-Sangeet Visharad in Hindustani classical vocals · poetry · badminton · teaching with Nirvana NGO
+Hindustani classical vocalist · poetry ·  badminton ·  teaching with Nirvana NGO
 
 ---
 
-📬 hiteshwaripatel408@gmail.com  
-🔗 [LinkedIn](YOUR_LINKEDIN_URL)
+📬 hiteshwarip4@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/hiteshwari-patel)
